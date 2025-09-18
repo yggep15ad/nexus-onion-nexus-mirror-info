@@ -43,4 +43,6 @@ Having reliable **Nexus onion nexus-mirror info** is crucial for anyone looking 
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/sprites/rule.webp" style="max-width: 100%;"></a>
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/sprites/snap.webp" style="max-width: 100%;"></a>
 
-Update:  14 September
+
+
+Update:  18.09.2025
