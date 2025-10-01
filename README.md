@@ -45,4 +45,6 @@ Having reliable **Nexus onion nexus-mirror info** is crucial for anyone looking 
 
 
 
-Update:  18.09.2025
+
+
+Update:  01 October 2025 Fixed dead link
